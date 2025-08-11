@@ -39,7 +39,7 @@
     </main>
     <footer>
         <h2> Види риб України </h2>
-        <table background-color:orange >
+        <table >
        <tr class="line1" > 
         <td> Група </td>
         <td> Представник  </td>
