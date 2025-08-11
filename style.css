@@ -1,0 +1,114 @@
+.picture { height: 300px; width: 250px;
+
+}
+nav { text-align: center;
+padding: 20px 0px;
+margin: 20px 0px;
+background-color: rebeccapurple;  
+ }
+h1 {text-align: center;
+font-size: 50px;
+color: red;
+
+}
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color:blue;
+    font-size: 20px;
+}
+.orange {color: orange;
+
+}
+.pink {
+    color: pink;
+}
+.plum {color: plum;
+
+}
+.green {color: green;
+
+}
+h2 { text-align: center;
+color: aqua;
+
+}
+.line1 { color: chocolate;
+background-color: blueviolet;
+}
+table { border: 3px solid green;
+border-collapse:collapse;
+
+}
+.line2 { color: greenyellow;
+background-color: blue;
+
+}
+td { border: 3px solid green;
+
+}
+.icon1 { height: 80px;
+width: 150px;
+
+}
+.line3 { background-color: aquamarine;
+color: blue;
+
+}
+.icon2 { height: 80px ;
+width: 150px;
+
+}
+.line4 { background-color: powderblue;
+color: blueviolet;
+
+}
+.icon3 { height: 80px;
+width: 150px;
+
+}
+.line5 { background-color: cornflowerblue;
+color: plum;
+
+
+}
+.icon4 { height: 80px ;
+width: 150px;
+
+}
+.blue { color: blue;
+
+}
+.body { background-color: yellow;
+
+}
+.brown { color: brown;
+
+}
+.light green { color: lightgreen;
+
+}
+.purple {
+    color: purple;
+}
+.icon10 { height: 250px;
+
+}
+.name {color: orange;
+
+}
+h3 { text-align: center;
+color: green;
+}
+.surname { color: blue;
+
+}
+.phone{ color: red;
+
+}
+.page { color: pink;
+
+}
+p { font-size: 20px;
+
+}
